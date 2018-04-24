@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
     LinearLayout mLeft;
     @BindView(R.id.drawer_layout)
     DrawerLayout mDrawerLayout;
-
+//haha
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
