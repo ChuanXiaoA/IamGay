@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         initView();
 
+        //我不是
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
