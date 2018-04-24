@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         SharedPreferences user = getSharedPreferences("user", MODE_PRIVATE);
         SharedPreferences.Editor edit = user.edit();
         edit.putString("", "");
+        //哈哈哈
 
     }
 
