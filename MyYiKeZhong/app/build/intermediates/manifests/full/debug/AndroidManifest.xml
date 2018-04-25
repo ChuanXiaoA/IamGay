@@ -8,6 +8,8 @@
         android:minSdkVersion="15"
         android:targetSdkVersion="26" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <meta-data
         android:name="android.support.VERSION"
         android:value="26.0.0-alpha1" />
@@ -20,6 +22,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.bwei.myyikezhong.MainActivity" >
             <intent-filter>
@@ -29,6 +32,15 @@
             </intent-filter>
         </activity>
         <activity android:name="com.bwei.myyikezhong.DrawerLayout.LoginActivity" />
+        <activity android:name="com.bwei.myyikezhong.DrawerLayout.LoginRegActivity" />
+        <activity android:name="com.bwei.myyikezhong.DrawerLayout.RegActivity" >
+        </activity>
+        <activity
+            android:name="com.uuzuche.lib_zxing.activity.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
 
         <meta-data
             android:name="android.support.VERSION"

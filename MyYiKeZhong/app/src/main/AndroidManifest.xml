@@ -17,7 +17,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DrawerLayout.LoginActivity"></activity>
+        <activity android:name=".DrawerLayout.LoginActivity" />
+        <activity android:name=".DrawerLayout.LoginRegActivity" />
+        <activity android:name=".DrawerLayout.RegActivity">
+
+        </activity>
     </application>
 
 </manifest>
