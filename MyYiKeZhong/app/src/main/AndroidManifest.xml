@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.bwei.myyikezhong">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:name=".App.MyApp"
         android:allowBackup="true"

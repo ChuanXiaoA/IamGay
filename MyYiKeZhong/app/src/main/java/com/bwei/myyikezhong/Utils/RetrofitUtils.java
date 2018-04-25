@@ -2,7 +2,10 @@ package com.bwei.myyikezhong.Utils;
 
 import android.util.Log;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6526704cffd1d35593050a2489e3a65744ea1f0d
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 
 import okhttp3.OkHttpClient;

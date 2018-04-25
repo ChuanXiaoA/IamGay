@@ -1,9 +1,16 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< HEAD
 ADDED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-27:12
 INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-27:12
 INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-27:12
 INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-27:12
+=======
+ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-25:12
+>>>>>>> 6526704cffd1d35593050a2489e3a65744ea1f0d
 MERGED from [com.hjm:BottomTabBar:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\BottomTabBar-1.1.1.aar\0e22b4bfc2f3925bd50831772fd8f7db\AndroidManifest.xml:2:1-17:12
 MERGED from [com.android.support:design:24.2.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\629a930f7653560d602bb25708f8ea0e\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\4d3cfaaca106b452da8ce54affa0d5b9\AndroidManifest.xml:17:1-26:12
@@ -32,14 +39,21 @@ MERGED from [com.facebook.fresco:fbcore:0.9.0] C:\Users\lenovo\.gradle\caches\tr
 MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.6.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.6.0.aar\33c2b94e607867dec3dd8d58fadca858\AndroidManifest.xml:2:1-9:12
 MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.6.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.6.0.aar\a733ca474abd8ca7edfe47be45d787dd\AndroidManifest.xml:2:1-9:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e94f362311cd17acfbf104fade844eaa\AndroidManifest.xml:17:1-30:12
+<<<<<<< HEAD
 INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-27:12
 INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-27:12
 INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-27:12
+=======
+INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-25:12
+>>>>>>> 6526704cffd1d35593050a2489e3a65744ea1f0d
 	package
 		ADDED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:3:5-35
 		INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
 		INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
 	android:versionName
+<<<<<<< HEAD
 		INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
 		ADDED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
@@ -55,6 +69,23 @@ ADDED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:4:1-
 		ADDED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:4:18-60
 application
 ADDED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:5:5-25:19
+=======
+		INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:7:5-23:19
+>>>>>>> 6526704cffd1d35593050a2489e3a65744ea1f0d
 MERGED from [com.hjm:BottomTabBar:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\BottomTabBar-1.1.1.aar\0e22b4bfc2f3925bd50831772fd8f7db\AndroidManifest.xml:11:5-15:19
 MERGED from [com.hjm:BottomTabBar:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\BottomTabBar-1.1.1.aar\0e22b4bfc2f3925bd50831772fd8f7db\AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:design:24.2.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-24.2.0.aar\629a930f7653560d602bb25708f8ea0e\AndroidManifest.xml:22:5-20
@@ -86,6 +117,7 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\lenovo\.gradle\
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e94f362311cd17acfbf104fade844eaa\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e94f362311cd17acfbf104fade844eaa\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
+<<<<<<< HEAD
 		ADDED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
 		ADDED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:9:9-41
@@ -125,6 +157,39 @@ activity#com.bwei.myyikezhong.DrawerLayout.RegActivity
 ADDED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:22:9-24:20
 	android:name
 		ADDED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:22:19-59
+=======
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:8:9-34
+activity#com.bwei.myyikezhong.MainActivity
+ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.bwei.myyikezhong.DrawerLayout.LoginActivity
+ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:22:9-73
+	android:name
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml:22:19-61
+>>>>>>> 6526704cffd1d35593050a2489e3a65744ea1f0d
 uses-sdk
 INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
@@ -185,6 +250,7 @@ MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.6.0] C:\Users\lenovo\.gradle\
 MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.6.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.6.0.aar\a733ca474abd8ca7edfe47be45d787dd\AndroidManifest.xml:5:5-7:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e94f362311cd17acfbf104fade844eaa\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e94f362311cd17acfbf104fade844eaa\AndroidManifest.xml:20:5-22:41
+<<<<<<< HEAD
 INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
 INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
@@ -197,6 +263,20 @@ INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
 		INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
 		ADDED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
 		INJECTED from G:\ChuanXiao\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
+=======
+INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
+INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f134a5724b4090dee9d522399c53809f\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dayi\ku\IamGay\MyYiKeZhong\app\src\main\AndroidManifest.xml
+>>>>>>> 6526704cffd1d35593050a2489e3a65744ea1f0d
 meta-data#android.support.VERSION
 ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\4d3cfaaca106b452da8ce54affa0d5b9\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ab7cd88909e20d5e7d0569b03e651219\AndroidManifest.xml:26:9-28:38
