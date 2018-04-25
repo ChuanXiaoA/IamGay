@@ -1,5 +1,8 @@
 package com.bwei.myyikezhong.HomePage.Home_Service;
 
+import com.bwei.myyikezhong.HomePage.Home_Bean.H_Bean_lunbo;
+
+import io.reactivex.Flowable;
 import retrofit2.http.GET;
 
 /**
@@ -8,6 +11,8 @@ import retrofit2.http.GET;
 
 public interface H_Service {
 
-
+    //轮播
+    @GET("quarter/getAd")
+    Flowable<H_Bean_lunbo> getluobo();
 
 }
