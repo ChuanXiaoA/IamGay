@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.bwei.myyikezhong.HomePage.Home_Presenter.H_Presenter;
 import com.bwei.myyikezhong.R;
 import com.youth.banner.Banner;
 
@@ -15,14 +16,12 @@ import com.youth.banner.Banner;
  */
 
 public class F11 extends Fragment {
-    private View view;
     private Banner mF11Banner;
 
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.f11, container, false);
 
-
-
+        H_Presenter h_presenter = new H_Presenter(getActivity());
 
 
 

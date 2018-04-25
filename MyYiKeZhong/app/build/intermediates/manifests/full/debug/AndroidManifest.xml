@@ -29,6 +29,12 @@
             </intent-filter>
         </activity>
         <activity android:name="com.bwei.myyikezhong.DrawerLayout.LoginActivity" />
+        <activity
+            android:name="com.uuzuche.lib_zxing.activity.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
 
         <meta-data
             android:name="android.support.VERSION"

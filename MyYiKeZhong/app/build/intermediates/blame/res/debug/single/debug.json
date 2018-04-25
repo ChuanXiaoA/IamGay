@@ -12,6 +12,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_arrow_white_24dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_arrow_white_24dp.png"
+    },
+    {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\layout\\abc_action_menu_layout.xml"
     },
@@ -42,6 +46,10 @@
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_simple_player_menu.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-mdpi-v4\\simple_player_menu.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
@@ -144,6 +152,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\22aedd66cb45521e1c8f6d6ab8f11193\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_control_normal_holo.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_control_normal_holo.png"
+    },
+    {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable\\abc_btn_colored_material.xml"
     },
@@ -198,6 +210,10 @@
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.0.aar\\629a930f7653560d602bb25708f8ea0e\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_simple_player_center_bg.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable\\simple_player_center_bg.xml"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -258,6 +274,10 @@
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\22aedd66cb45521e1c8f6d6ab8f11193\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_qcloud_player_icon_audio_vol.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\qcloud_player_icon_audio_vol.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -370,6 +390,10 @@
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_icon_fullscreen_shrink.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_icon_fullscreen_shrink.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
@@ -612,6 +636,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_stop_white_24dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_stop_white_24dp.png"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\anim\\abc_slide_out_top.xml"
     },
@@ -668,12 +696,20 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\22aedd66cb45521e1c8f6d6ab8f11193\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_control_focused_holo.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_control_focused_holo.png"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_circle_outline_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_circle_outline_white_36dp.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -792,6 +828,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_simple_player_chevron_left_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-hdpi-v4\\simple_player_chevron_left_white_36dp.png"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_fab_in.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.0.aar\\629a930f7653560d602bb25708f8ea0e\\res\\anim\\design_fab_in.xml"
     },
@@ -880,6 +920,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.0.aar\\629a930f7653560d602bb25708f8ea0e\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_simple_player_circle_outline_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-hdpi-v4\\simple_player_circle_outline_white_36dp.png"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\color\\abc_tint_switch_track.xml"
     },
@@ -934,6 +978,10 @@
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_default.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-library-2.2.aar\\5a62d90c90b5d24edebc23458e807bf2\\res\\raw\\beep.ogg"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -1020,6 +1068,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_player_topbar.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\layout\\simple_player_topbar.xml"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable\\abc_switch_thumb_material.xml"
     },
@@ -1034,6 +1086,10 @@
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_simple_player_arrow_white_24dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-mdpi-v4\\simple_player_arrow_white_24dp.png"
     },
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -1136,8 +1192,16 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_simple_player_volume_off_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-hdpi-v4\\simple_player_volume_off_white_36dp.png"
+    },
+    {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_simple_player_brightness_6_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-hdpi-v4\\simple_player_brightness_6_white_36dp.png"
     },
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
@@ -1242,6 +1306,10 @@
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_chevron_left_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_chevron_left_white_36dp.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_raw_1499943790.png.flat",
@@ -1356,6 +1424,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_qcloud_player_icon_brightness.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\qcloud_player_icon_brightness.png"
+    },
+    {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_ic_visibility.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.0.aar\\629a930f7653560d602bb25708f8ea0e\\res\\drawable\\design_ic_visibility.xml"
     },
@@ -1408,6 +1480,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\22aedd66cb45521e1c8f6d6ab8f11193\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_simple_player_chevron_left_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-mdpi-v4\\simple_player_chevron_left_white_36dp.png"
+    },
+    {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\22aedd66cb45521e1c8f6d6ab8f11193\\res\\layout\\notification_template_part_time.xml"
     },
@@ -1434,6 +1510,10 @@
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_ic_visibility.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.0.aar\\629a930f7653560d602bb25708f8ea0e\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_icon_media_pause.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_icon_media_pause.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -1466,6 +1546,10 @@
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_menu.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_menu.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
@@ -1672,12 +1756,20 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_simple_player_brightness_6_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-mdpi-v4\\simple_player_brightness_6_white_36dp.png"
+    },
+    {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_track_holo_dark.9.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_track_holo_dark.9.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1768,6 +1860,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_simple_player_stop_white_24dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-mdpi-v4\\simple_player_stop_white_24dp.png"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
@@ -1782,6 +1878,10 @@
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_raw_1499933216.png.flat",
         "source": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\src\\main\\res\\mipmap-hdpi\\raw_1499933216.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_capture.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-library-2.2.aar\\5a62d90c90b5d24edebc23458e807bf2\\res\\layout\\fragment_capture.xml"
     },
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
@@ -1842,6 +1942,10 @@
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yueliang.png.flat",
         "source": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\src\\main\\res\\mipmap-hdpi\\yueliang.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_brightness_6_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_brightness_6_white_36dp.png"
     },
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
@@ -1912,6 +2016,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_bg_normal.9.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_bg_normal.9.png"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\22aedd66cb45521e1c8f6d6ab8f11193\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
@@ -1924,8 +2032,16 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\22aedd66cb45521e1c8f6d6ab8f11193\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_icon_fullscreen_stretch.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_icon_fullscreen_stretch.png"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_sex.png.flat",
         "source": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\src\\main\\res\\mipmap-hdpi\\sex.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_player_controlbar.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\layout\\simple_player_controlbar.xml"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
@@ -1996,6 +2112,14 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_simple_player_btn.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable\\simple_player_btn.xml"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_control_disabled_holo.png"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -2044,6 +2168,10 @@
         "source": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_iv_rotation.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_iv_rotation.png"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -2054,6 +2182,10 @@
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_simple_player_volume_up_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-mdpi-v4\\simple_player_volume_up_white_36dp.png"
     },
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -2086,6 +2218,10 @@
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_center_pause.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_center_pause.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -2156,6 +2292,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_player_touch_gestures.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\layout\\simple_player_touch_gestures.xml"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
@@ -2220,6 +2360,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable\\tooltip_frame_light.xml"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_simple_player_volume_off_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-mdpi-v4\\simple_player_volume_off_white_36dp.png"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -2258,6 +2402,10 @@
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_simple_player_menu.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-hdpi-v4\\simple_player_menu.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
@@ -2348,8 +2496,20 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.0.aar\\629a930f7653560d602bb25708f8ea0e\\res\\anim\\design_snackbar_in.xml"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_player_list_item.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\layout\\simple_player_list_item.xml"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_player_view_player.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\layout\\simple_player_view_player.xml"
+    },
+    {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_bg_pressed.9.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_bg_pressed.9.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -2398,6 +2558,10 @@
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_simple_player_stop_white_24dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-hdpi-v4\\simple_player_stop_white_24dp.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
@@ -2460,6 +2624,14 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-library-2.2.aar\\5a62d90c90b5d24edebc23458e807bf2\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_volume_off_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_volume_off_white_36dp.png"
+    },
+    {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\22aedd66cb45521e1c8f6d6ab8f11193\\res\\layout\\notification_action.xml"
     },
@@ -2496,6 +2668,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_simple_player_progress_horizontal_holo_dark.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable\\simple_player_progress_horizontal_holo_dark.xml"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
@@ -2518,6 +2694,10 @@
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_qcloud_player_icon_audio_vol_mute.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\qcloud_player_icon_audio_vol_mute.png"
     },
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -2740,6 +2920,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\72739374cc7c5d84daa91f438304186c\\res\\layout\\notification_template_big_media.xml"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_volume_up_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_volume_up_white_36dp.png"
+    },
+    {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\layout\\abc_screen_simple.xml"
     },
@@ -2790,6 +2974,10 @@
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_secondary_holo.9.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_secondary_holo.9.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_f11.xml.flat",
@@ -2872,6 +3060,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_simple_player_volume_up_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-hdpi-v4\\simple_player_volume_up_white_36dp.png"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -2900,8 +3092,16 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_simple_player_control_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable\\simple_player_control_selector_holo_dark.xml"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_light.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-library-2.2.aar\\5a62d90c90b5d24edebc23458e807bf2\\res\\drawable\\scan_light.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment2.xml.flat",
@@ -3016,6 +3216,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_control_pressed_holo.png"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -3076,6 +3280,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_simple_player_circle_outline_white_36dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-mdpi-v4\\simple_player_circle_outline_white_36dp.png"
+    },
+    {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_fab_out.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.0.aar\\629a930f7653560d602bb25708f8ea0e\\res\\anim\\design_fab_out.xml"
     },
@@ -3130,6 +3338,10 @@
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_primary_holo.9.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_primary_holo.9.png"
     },
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
@@ -3274,6 +3486,10 @@
     {
         "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
         "source": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -3536,6 +3752,10 @@
         "source": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_simple_player_arrow_white_24dp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-hdpi-v4\\simple_player_arrow_white_24dp.png"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\anim_tooltip_enter.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\anim\\tooltip_enter.xml"
     },
@@ -3722,6 +3942,10 @@
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_simple_player_center_play.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\jjdxm-ijkplayer-1.0.5.aar\\2b87b35a03c2ff190bc9b4a9a2c79ad3\\res\\drawable-xhdpi-v4\\simple_player_center_play.png"
     },
     {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
