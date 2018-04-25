@@ -110,6 +110,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
     @OnClick({R.id.btnbar, R.id.imageView, R.id.textView, R.id.imageView2, R.id.touxiang, R.id.naicha, R.id.rlv, R.id.yueliang, R.id.yejianmoshi, R.id.imageView3, R.id.imageView4, R.id.left, R.id.drawer_layout})
     public void onClick(View v) {
         switch (v.getId()) {
@@ -124,6 +125,8 @@ public class MainActivity extends AppCompatActivity {
             case R.id.imageView2:
                 break;
             case R.id.touxiang:
+
+
                 break;
             case R.id.naicha:
                 break;
@@ -143,4 +146,10 @@ public class MainActivity extends AppCompatActivity {
                 break;
         }
     }
+
+
+
+
+
+
 }

@@ -1312,6 +1312,10 @@
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.0.aar\\629a930f7653560d602bb25708f8ea0e\\res\\anim\\design_snackbar_in.xml"
     },
     {
+        "merged": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
         "merged": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\f134a5724b4090dee9d522399c53809f\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },

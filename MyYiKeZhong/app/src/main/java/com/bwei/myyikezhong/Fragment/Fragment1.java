@@ -45,7 +45,6 @@ public class Fragment1 extends Fragment {
         list.add(f11);
         list.add(f12);
         mTablayout.setupWithViewPager(mViewpager);
-
         mTablayout.setTabMode(TabLayout.MODE_FIXED);
         mViewpager.setAdapter(new FragmentPagerAdapter(getActivity().getSupportFragmentManager()) {
             @Override
