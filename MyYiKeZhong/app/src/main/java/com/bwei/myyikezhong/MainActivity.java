@@ -56,8 +56,13 @@ public class MainActivity extends AppCompatActivity {
     @BindView(R.id.drawer_layout)
     DrawerLayout mDrawerLayout;
     private DrawerLayout mDrawerLayout1;
+<<<<<<< HEAD
  //
     //框架123
+=======
+
+    //框架123456
+>>>>>>> ca2ab5e3565cd07cd8f67449a8b6f556bbeff0cf
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
