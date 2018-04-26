@@ -20,11 +20,18 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+<<<<<<< HEAD
 
 }
 sourceSets {
     main {
         java.srcDirs = ['src/main/java', 'src/main/com.bwei.MyYikeZhong']
+=======
+    sourceSets {
+        main {
+            java.srcDirs = ['src/main/java', 'src/main/com.bwei.myyikezhong']
+        }
+>>>>>>> a056476d47bf7c68efd6162d78412f1931615a36
     }
 
 }
@@ -58,12 +65,17 @@ dependencies {
     compile 'cn.yipianfengye.android:zxing-library:2.2'
     compile 'com.fynn.fluidlayout:fluidlayout:1.0'
     compile 'com.github.bumptech.glide:glide:3.7.0'
+<<<<<<< HEAD
 
 
     compile 'com.google.code.gson:gson:2.2.4'
     compile 'com.orhanobut:logger:1.15'
 
+=======
 
     compile 'com.google.code.gson:gson:2.2.4'
     compile 'com.orhanobut:logger:1.15'
+>>>>>>> a056476d47bf7c68efd6162d78412f1931615a36
+
+
 }

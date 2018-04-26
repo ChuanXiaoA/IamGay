@@ -1,7 +1,11 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "F:\\Chuanxiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+            "outputFile": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> a056476d47bf7c68efd6162d78412f1931615a36
             "map": [
                 {
                     "source": "C:\\Users\\zh\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.0.aar\\97ee64059e78f8bf15179e73dd016ceb\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",

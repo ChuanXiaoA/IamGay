@@ -1,7 +1,11 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "F:\\Chuanxiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
+=======
+            "outputFile": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
+>>>>>>> a056476d47bf7c68efd6162d78412f1931615a36
             "map": [
                 {
                     "source": "C:\\Users\\zh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ccdce02cae34b6cf4fb7021997b29ad8\\res\\values-es\\values-es.xml",

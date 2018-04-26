@@ -14,6 +14,7 @@ import android.widget.Toast;
 import com.bwei.myyikezhong.Base.BaseActivity;
 import com.bwei.myyikezhong.DrawerLayout.presenter.RegPresenter;
 import com.bwei.myyikezhong.DrawerLayout.view.RegView;
+import com.bwei.myyikezhong.MainActivity;
 import com.bwei.myyikezhong.R;
 
 public class RegActivity extends BaseActivity<RegPresenter> implements RegView{
@@ -46,6 +47,13 @@ public class RegActivity extends BaseActivity<RegPresenter> implements RegView{
             public void onClick(View view) {
                 presenter.getRegPresenter11("本地注册",mShuruname.getText().toString(),mShurupwd.getText().toString());
            }
+        });
+
+        mYoukedenglu.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(RegActivity.this,MainActivity.class));
+            }
         });
     }
     @Override
