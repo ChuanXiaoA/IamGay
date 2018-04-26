@@ -1,5 +1,6 @@
 package com.bwei.myyikezhong;
 
+import android.content.Intent;
 import android.net.Uri;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.AppCompatActivity;
@@ -13,6 +14,7 @@ import android.widget.TextView;
 
 import com.bwei.myyikezhong.DrawerLayout.Adapter.DrawerAdapter;
 import com.bwei.myyikezhong.DrawerLayout.Bean.DrawerInfo;
+import com.bwei.myyikezhong.DrawerLayout.LoginActivity;
 import com.bwei.myyikezhong.Fragment.Fragment1;
 import com.bwei.myyikezhong.Fragment.Fragment2;
 import com.bwei.myyikezhong.Fragment.Fragment3;
@@ -125,10 +127,12 @@ public class MainActivity extends AppCompatActivity {
             case R.id.imageView2:
                 break;
             case R.id.touxiang:
-
-
+            //点击头像跳到登录页面
+            startActivity(new Intent(MainActivity.this, LoginActivity.class));
                 break;
             case R.id.naicha:
+                //点击昵称跳到登录页面
+                startActivity(new Intent(MainActivity.this, LoginActivity.class));
                 break;
             case R.id.rlv:
                 break;

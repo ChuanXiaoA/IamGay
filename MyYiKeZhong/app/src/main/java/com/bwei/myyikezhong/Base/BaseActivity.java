@@ -27,13 +27,6 @@ public abstract class BaseActivity<P> extends AppCompatActivity {
 
     public abstract void initView();
 
-    public void getData(){
+    public abstract void getData();
 
-    }
-
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-//        presenter.onDestroy();
-    }
 }

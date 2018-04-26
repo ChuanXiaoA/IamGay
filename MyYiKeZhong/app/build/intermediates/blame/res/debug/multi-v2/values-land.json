@@ -1,7 +1,11 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
+            "outputFile": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+=======
             "outputFile": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+>>>>>>> 6526704cffd1d35593050a2489e3a65744ea1f0d
             "map": [
                 {
                     "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.0.aar\\629a930f7653560d602bb25708f8ea0e\\res\\values-land\\values-land.xml",
