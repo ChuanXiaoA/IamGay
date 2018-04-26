@@ -1,11 +1,7 @@
 {
     "logs": [
         {
-<<<<<<< HEAD
             "outputFile": "G:\\ChuanXiao\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
-=======
-            "outputFile": "D:\\Dayi\\ku\\IamGay\\MyYiKeZhong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
->>>>>>> 6526704cffd1d35593050a2489e3a65744ea1f0d
             "map": [
                 {
                     "source": "C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\72739374cc7c5d84daa91f438304186c\\res\\values-v21\\values-v21.xml",

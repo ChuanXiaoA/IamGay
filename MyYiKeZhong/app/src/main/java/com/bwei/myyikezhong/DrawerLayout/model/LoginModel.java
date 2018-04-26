@@ -18,8 +18,8 @@ import io.reactivex.subscribers.DefaultSubscriber;
 public class LoginModel {
 
     public interface setOnLogin{
-        void OnSuccess(String msg);
-        void OnErorr(String msg);
+        void OnSuccess(LoginInfo loginInfo);
+
     }
     setOnLogin setOnLogin;
     public void getSetOnLogin(setOnLogin setOnLogin){
@@ -36,19 +36,11 @@ public class LoginModel {
                 .subscribeWith(new DefaultSubscriber<LoginInfo>() {
                     @Override
                     public void onNext(LoginInfo loginInfo) {
-                        String code = loginInfo.getCode();
-                        String msg = loginInfo.getMsg();
-                        if(code.equals("0")){
-                            if(setOnLogin!=null){
-                                setOnLogin.OnSuccess(msg);
-                            }
-                        }else {
-                            if(setOnLogin!=null){
-                                setOnLogin.OnErorr(msg);
-                            }
+                        if (setOnLogin != null) {
+                            setOnLogin.OnSuccess(loginInfo);
                         }
-                    }
 
+                    }
                     @Override
                     public void onError(Throwable t) {
 

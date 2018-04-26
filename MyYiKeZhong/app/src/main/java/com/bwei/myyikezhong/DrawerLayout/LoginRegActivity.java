@@ -10,12 +10,14 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.bwei.myyikezhong.DrawerLayout.Bean.LoginInfo;
 import com.bwei.myyikezhong.DrawerLayout.presenter.LoginPresenter;
 import com.bwei.myyikezhong.DrawerLayout.view.LoginView;
 import com.bwei.myyikezhong.MainActivity;
 import com.bwei.myyikezhong.R;
+import com.bwei.myyikezhong.Utils.SPUtil;
 
-public class LoginRegActivity extends AppCompatActivity implements View.OnClickListener,LoginView {
+public class LoginRegActivity extends AppCompatActivity implements View.OnClickListener, LoginView {
 
     private ImageView mHuitui;
     /**
@@ -54,14 +56,14 @@ public class LoginRegActivity extends AppCompatActivity implements View.OnClickL
     }
 
     private void initView() {
-        mHuitui =  findViewById(R.id.huitui);
-        mZhucezhanghao =  findViewById(R.id.zhucezhanghao);
-        mName =  findViewById(R.id.name);
-        mPwd =  findViewById(R.id.pwd);
-        mLoginbtn =  findViewById(R.id.loginbtn);
+        mHuitui = findViewById(R.id.huitui);
+        mZhucezhanghao = findViewById(R.id.zhucezhanghao);
+        mName = findViewById(R.id.name);
+        mPwd = findViewById(R.id.pwd);
+        mLoginbtn = findViewById(R.id.loginbtn);
         mLoginbtn.setOnClickListener(this);
-        mWangjimima =  findViewById(R.id.wangjimima);
-        mYoukedenglu =  findViewById(R.id.youkedenglu);
+        mWangjimima = findViewById(R.id.wangjimima);
+        mYoukedenglu = findViewById(R.id.youkedenglu);
     }
 
     @Override
@@ -74,31 +76,51 @@ public class LoginRegActivity extends AppCompatActivity implements View.OnClickL
         }
     }
 
-    public void getData(){
+    public void getData() {
         mZhucezhanghao.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(LoginRegActivity.this,RegActivity.class));
+                startActivity(new Intent(LoginRegActivity.this, RegActivity.class));
             }
         });
 
-        final LoginPresenter loginPresenter=new LoginPresenter(this);
+        final LoginPresenter loginPresenter = new LoginPresenter(this);
+        //点击登录按钮
         mLoginbtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                loginPresenter.getLoginPresenter(mName.getText().toString(),mPwd.getText().toString());
+                loginPresenter.getLoginPresenter(mName.getText().toString(), mPwd.getText().toString());
+            }
+        });
+        //点击游客登录跳转到主页面
+        mYoukedenglu.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(LoginRegActivity.this, MainActivity.class));
+            }
+        });
+        //点击忘记密码跳转
+        mWangjimima.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+
             }
         });
     }
 
+    //成功方法返回成功直接跳转到主页面
     @Override
-    public void OnSuccess(String msg) {
-        Toast.makeText(this, msg, Toast.LENGTH_SHORT).show();
+    public void OnSuccess(LoginInfo loginInfo) {
+        Toast.makeText(this, loginInfo.getMsg(), Toast.LENGTH_SHORT).show();
+        LoginInfo.DataBean data = loginInfo.getData();
+        int uid = data.getUid();
+        String token = data.getToken();
+        SPUtil spu = new SPUtil(LoginRegActivity.this, "SPU");
+        spu.putString("uid",uid+"");
+        spu.putString("token",token);
         startActivity(new Intent(LoginRegActivity.this, MainActivity.class));
     }
 
-    @Override
-    public void OnErorr(String msg) {
-        Toast.makeText(this, msg, Toast.LENGTH_SHORT).show();
-    }
+
 }

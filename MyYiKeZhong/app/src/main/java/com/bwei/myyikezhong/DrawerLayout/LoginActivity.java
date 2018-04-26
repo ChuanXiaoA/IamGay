@@ -27,18 +27,18 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     private void initView() {
-        mWeixin =  findViewById(R.id.weixin);
-        mQq =  findViewById(R.id.qq);
-        mQitalogin =  findViewById(R.id.qitalogin);
+        mWeixin = findViewById(R.id.weixin);
+        mQq = findViewById(R.id.qq);
+        mQitalogin = findViewById(R.id.qitalogin);
     }
 
-    public void getData(){
+    public void getData() {
 
-    mQitalogin.setOnClickListener(new View.OnClickListener() {
-        @Override
-        public void onClick(View view) {
-        startActivity(new Intent(LoginActivity.this,LoginRegActivity.class));
-        }
-    });
+        mQitalogin.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(LoginActivity.this, LoginRegActivity.class));
+            }
+        });
     }
 }

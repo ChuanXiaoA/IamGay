@@ -24,7 +24,7 @@ android {
         main {
             java.srcDirs = ['src/main/java', 'src/main/com.bwei.myyikezhong']
         }
-}
+    }
 
 }
 dependencies {
@@ -57,13 +57,9 @@ dependencies {
     compile 'cn.yipianfengye.android:zxing-library:2.2'
     compile 'com.fynn.fluidlayout:fluidlayout:1.0'
     compile 'com.github.bumptech.glide:glide:3.7.0'
-<<<<<<< HEAD
 
     compile 'com.google.code.gson:gson:2.2.4'
     compile 'com.orhanobut:logger:1.15'
-=======
->>>>>>> 6526704cffd1d35593050a2489e3a65744ea1f0d
 
-    compile 'com.google.code.gson:gson:2.2.4'
-    compile 'com.orhanobut:logger:1.15'
+
 }

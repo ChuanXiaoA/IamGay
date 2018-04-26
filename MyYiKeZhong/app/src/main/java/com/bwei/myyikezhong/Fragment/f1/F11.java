@@ -33,57 +33,13 @@ public class F11 extends Fragment implements H_I_lunbo{
     private Banner mF11Banner;
     //轮播集合
     private List<String> imgs = new ArrayList<>();
-
-    Handler handler = new Handler(){
-
-        private H_Bean_lunbo h_bean_lunbo;
-
-        @Override
-        public void handleMessage(Message msg) {
-            super.handleMessage(msg);
-            Log.i("xxx","11111111----111");
-            if (msg.what==1){
-                imgs.clear();
-                h_bean_lunbo = (H_Bean_lunbo) msg.obj;
-                //返回轮播集合
-                List<H_Bean_lunbo.DataBean> data = h_bean_lunbo.getData();
-
-                for (int i = 0; i < data.size(); i++) {
-                    String icon = data.get(i).getIcon();
-                    imgs.add(icon);
-                    Log.i("xxx","11111111----111"+icon);
-                }
-                //一秒轮播
-                mF11Banner.setDelayTime(1000);
-                //加载图片
-                mF11Banner.setImages(imgs);
-                //图片加载框架
-
-                mF11Banner.setImageLoader(new ImageLoader() {
-                    @Override
-                    public void displayImage(Context context, Object path, ImageView imageView) {
-                        Glide.with(context).load(path).into(imageView);
-                    }
-                });
-                mF11Banner.start();
-            }
-
-        }
-    };
-
-
-
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.f11, container, false);
         //调用初始化
         initView(view);
-
         //轮播实现
         H_Presenter_lunbo h_presenter = new H_Presenter_lunbo(this);
         h_presenter.getlunbo();
-
-
-
         return view;
     }
     //初始化
@@ -97,10 +53,27 @@ public class F11 extends Fragment implements H_I_lunbo{
 
         Log.i("xxx","11111111----");
 
-        Message message = new Message();
-        message.obj=h_bean_lunbo;
-        message.what = 1;
-        handler.handleMessage(message);
+        //返回轮播集合
+        List<H_Bean_lunbo.DataBean> data = h_bean_lunbo.getData();
+
+        for (int i = 0; i < data.size(); i++) {
+            String icon = data.get(i).getIcon();
+            imgs.add(icon);
+            Log.i("xxx","11111111----111"+icon);
+        }
+        //一秒轮播
+        mF11Banner.setDelayTime(1000);
+        //加载图片
+        mF11Banner.setImages(imgs);
+        //图片加载框架
+
+        mF11Banner.setImageLoader(new ImageLoader() {
+            @Override
+            public void displayImage(Context context, Object path, ImageView imageView) {
+                Glide.with(context).load(path).into(imageView);
+            }
+        });
+        mF11Banner.start();
     }
     //轮播失败
     @Override

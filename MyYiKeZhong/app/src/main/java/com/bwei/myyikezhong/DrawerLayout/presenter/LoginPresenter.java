@@ -1,5 +1,6 @@
 package com.bwei.myyikezhong.DrawerLayout.presenter;
 
+import com.bwei.myyikezhong.DrawerLayout.Bean.LoginInfo;
 import com.bwei.myyikezhong.DrawerLayout.model.LoginModel;
 import com.bwei.myyikezhong.DrawerLayout.view.LoginView;
 
@@ -19,14 +20,11 @@ public class LoginPresenter {
         loginModel.getLoginModel(mobile,password);
         loginModel.getSetOnLogin(new LoginModel.setOnLogin() {
             @Override
-            public void OnSuccess(String msg) {
-                loginView.OnSuccess(msg);
+            public void OnSuccess(LoginInfo loginInfo) {
+                loginView.OnSuccess(loginInfo);
             }
 
-            @Override
-            public void OnErorr(String msg) {
-                loginView.OnErorr(msg);
-            }
+
         });
 
     }

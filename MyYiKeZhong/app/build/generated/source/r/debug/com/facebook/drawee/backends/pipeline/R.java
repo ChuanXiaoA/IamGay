@@ -43,11 +43,7 @@ public final class R {
         public static final int fitStart = 0x7f080080;
         public static final int fitXY = 0x7f080081;
         public static final int focusCrop = 0x7f080088;
-<<<<<<< HEAD
         public static final int none = 0x7f0800b1;
-=======
-        public static final int none = 0x7f0800ae;
->>>>>>> 6526704cffd1d35593050a2489e3a65744ea1f0d
     }
     public static final class styleable {
         public static final int[] GenericDraweeView = { 0x7f030022, 0x7f030033, 0x7f030093, 0x7f030094, 0x7f030095, 0x7f030126, 0x7f030133, 0x7f030134, 0x7f030139, 0x7f03013b, 0x7f03013c, 0x7f03013d, 0x7f030146, 0x7f030147, 0x7f03014a, 0x7f03014b, 0x7f03014c, 0x7f03014d, 0x7f03014e, 0x7f03014f, 0x7f030150, 0x7f030151, 0x7f030152, 0x7f030153, 0x7f0301c4 };
